@@ -206,9 +206,13 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - MCP Server for querying GreptimeDB.
 - [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server) 📇 ☁️ 🏠 - Run queries against InfluxDB OSS API v2.
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - A Model Context Protocol server for interacting with Google Sheets. This server provides tools to create, read, update, and manage spreadsheets through the Google Sheets API.
-- [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - A Qdrant MCP server
+- [Canner/wren-engine](https://github.com/Canner/wren-engine) 🐍 🏠 - The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents
+- [JordNiel/mcp-databricks-server](https://github.com/JordNiel/mcp-databricks-server) - Connect to Databricks API, allowing LLMs to run SQL queries
+- [keboola/keboola-mcp-server](https://github.com/keboola/keboola-mcp-server) - Interact with Keboola Connection Data Platform
 - [openlink/mcp-server-odbc](https://github.com/OpenLinkSoftware/mcp-odbc-server) 🐍 🏠 - An MCP server for generic Database Management System (DBMS) Connectivity via the Open Database Connectivity (ODBC) protocol
 - [openlink/mcp-server-sqlalchemy](https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server) 🐍 🏠 - An MCP server for generic Database Management System (DBMS) Connectivity via SQLAlchemy using Python ODBC (pyodbc)
+- [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - A Qdrant MCP server
+- [zilliiztech/mcp-server-milvus](https://github.com/zilliiztech/mcp-server-milvus) 🐍 🏠 - MCP Server for Milvus / Zilliz, making it possible to interact with vector databases
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
 
